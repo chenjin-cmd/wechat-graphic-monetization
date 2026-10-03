@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" font-family="-apple-system, 'PingFang SC', 'Microsoft YaHei', 'Segoe UI', sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07C160"/>
+      <stop offset="1" stop-color="#0A9468"/>
+    </linearGradient>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#E54D42"/>
+      <stop offset="1" stop-color="#C0392B"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="420" fill="url(#bg)"/>
+
+  <g fill="#ffffff" opacity="0.12">
+    <path d="M-20,70 q25,-32 60,-18 q12,-34 48,-16 q34,-12 38,24 q28,6 16,34 q-22,16 -50,4 q-32,16 -60,-6 q-28,-2 -44,-16 q-18,-8 -8,-20 z"/>
+    <path d="M980,360 q25,-32 60,-18 q12,-34 48,-16 q34,-12 38,24 q28,6 16,34 q-22,16 -50,4 q-32,16 -60,-6 q-28,-2 -44,-16 q-18,-8 -8,-20 z"/>
+  </g>
+
+  <text x="600" y="104" font-size="38" text-anchor="middle">🖼️  📖  🛒  💰</text>
+
+  <text x="600" y="190" font-size="52" font-weight="800" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">wechat-graphic-monetization</text>
+
+  <text x="600" y="250" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">用 AI 玩转微信图文（小绿书），从选品到提现一条龙</text>
+
+  <text x="600" y="294" font-size="18" fill="#ffffff" opacity="0.85" text-anchor="middle">Monetize WeChat Photo-Text with AI · Selection → Commission</text>
+
+  <text x="600" y="358" font-size="16" fill="#ffffff" opacity="0.92" text-anchor="middle" letter-spacing="0.5">模式认知 → 开通橱窗 → 选品 → 图文带货 → 数据复盘 → 结算合规 → 图文创作 → 矩阵放大</text>
+
+  <rect x="1086" y="40" width="86" height="86" rx="14" fill="url(#seal)"/>
+  <text x="1129" y="100" font-size="46" font-weight="800" fill="#ffffff" text-anchor="middle" font-family="'PingFang SC','Microsoft YaHei',sans-serif">书</text>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="24" viewBox="0 0 140 24" font-family="-apple-system, 'PingFang SC', 'Segoe UI', sans-serif">
+  <rect x="0" y="0" width="70" height="24" rx="4" fill="#2b2b2b"/>
+  <rect x="66" y="0" width="74" height="24" rx="4" fill="#0A9468"/>
+  <text x="35" y="16" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">全流程</text>
+  <text x="103" y="16" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">8 阶段</text>
+</svg>

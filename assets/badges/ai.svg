@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="24" viewBox="0 0 132 24" font-family="-apple-system, 'PingFang SC', 'Segoe UI', sans-serif">
+  <rect x="0" y="0" width="44" height="24" rx="4" fill="#2b2b2b"/>
+  <rect x="40" y="0" width="92" height="24" rx="4" fill="#0A9468"/>
+  <text x="22" y="16" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">适用</text>
+  <text x="86" y="16" font-size="12" font-weight="700" fill="#ffffff" text-anchor="middle">任意 AI 工具</text>
+</svg>
