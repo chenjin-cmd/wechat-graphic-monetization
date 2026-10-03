@@ -25,6 +25,10 @@
 > 一份**工具无关的 AI 方法论**（见 `UNIVERSAL.md`），给任意 AI 助手当「程序化工作流」使用，覆盖：**模式认知 → 开通橱窗 → 选品 → 图文带货 → 数据复盘 → 结算合规 → 图文创作 → 矩阵放大** 全流程 8 阶段。
 > 适用于 Cursor、Claude、Claude Code、Cline、Copilot、Codex、ChatGPT 自定义指令、通义灵码、WorkBuddy 等**任何支持项目上下文 / 系统指令的 AI 工具**。
 
+# 💬 加入 AI 破局社群
+
+<h1 align="center"><b>想要加入自媒体 AI 破局社群可联系微信：JZX_AI1203</b></h1>
+
 ---
 
 ## 📖 目录
